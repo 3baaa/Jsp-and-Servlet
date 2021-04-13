@@ -1,0 +1,3 @@
+TITLE = JSP
+GREETING = 안녕하세요
+VISITOR = 당신의 아이디는 {0}입니다.
